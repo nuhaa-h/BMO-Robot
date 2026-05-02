@@ -1,0 +1,13 @@
+# Flutter
+flutter_app/build/
+flutter_app/.dart_tool/
+flutter_app/.idea/
+flutter_app/.packages
+
+# Secrets
+.env
+*.env
+
+# OS
+.DS_Store
+Thumbs.db
